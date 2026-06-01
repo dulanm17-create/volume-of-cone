@@ -25,6 +25,8 @@ To compile and run this program, you need a C compiler (such as `gcc`) installed
 1. Clone or download the source code file (e.g., `main.c`).
 2. Open your terminal or command prompt and navigate to the directory where the file is saved.
 3. Compile the code using the following command:
+ ```bash
+gcc main.c -o cone_calculator -lm
 
 
 
